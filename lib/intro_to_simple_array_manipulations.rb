@@ -22,7 +22,7 @@ end
 #needs work
 
 def using_shift (array)
-  array.shift()
+  array.shift
 end
 
 def shift_with_args (array)
