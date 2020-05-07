@@ -22,9 +22,7 @@ end
 #needs work
 
 def using_shift (array)
-  New York", "Berlin", "London"]
-  my_favorite_cities.shift()
-  
+  array.shift()
 end
 
 def shift_with_args (array)
