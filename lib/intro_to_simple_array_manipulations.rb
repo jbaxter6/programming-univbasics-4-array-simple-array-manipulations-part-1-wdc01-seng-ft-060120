@@ -21,8 +21,8 @@ end
 
 #needs work
 
-d
-  my_favorite_cities = [ef using_shift (array)"Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+def using_shift (array)
+  New York", "Berlin", "London"]
   my_favorite_cities.shift()
   
 end
